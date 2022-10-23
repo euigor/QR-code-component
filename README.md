@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
+- [Socials](#socials)
 
 
 
@@ -39,10 +39,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 
-## Author
+## Socials
 
 - Frontend Mentor - [🕵️‍♀️](https://www.frontendmentor.io/profile/euigor)
-- Twitter - [@han](https://www.twitter.com/quietasacurse)
-
+- Twitter - [@](https://www.twitter.com/quietasacurse)
+- Discord - lucylle#5424
 
 
