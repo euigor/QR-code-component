@@ -43,6 +43,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Frontend Mentor - [🕵️‍♀️](https://www.frontendmentor.io/profile/euigor)
 - Twitter - [@](https://www.twitter.com/quietasacurse)
-- Discord - lucylle#5424
 
 
